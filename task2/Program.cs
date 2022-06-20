@@ -8,12 +8,12 @@ int promt(string message)
     return numInt;
 }
 
-int x1 = promt("Введите координату x1 ");
-int y1 = promt("Введите координату y1 ");
-int z1 = promt("Введите координату z1 ");
-int x2 = promt("Введите координату x2 ");
-int y2 = promt("Введите координату y2 ");
-int z2 = promt("Введите координату z2 ");
+int x1 = promt("Введите координату x1");
+int y1 = promt("Введите координату y1");
+int z1 = promt("Введите координату z1");
+int x2 = promt("Введите координату x2");
+int y2 = promt("Введите координату y2");
+int z2 = promt("Введите координату z2");
 
 double Dist(int x1, int y1, int z1, int x2, int y2, int z2)
 {
